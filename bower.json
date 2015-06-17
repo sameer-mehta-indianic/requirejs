@@ -1,0 +1,16 @@
+{
+  "name": "quantum-requirejs",
+  "version": "2.1.18",
+  "homepage": "https://github.com/sameer-mehta-indianic/requirejs",
+  "authors": [
+    "Sameer Mehta <sameer.mehta@indianic.com>"
+  ],
+  "description": "Contain requirejs files",
+  "keywords": [
+    "requirejs",
+    "require"
+  ],
+  "license": "MIT",
+  "ignore": [
+  ]
+}
