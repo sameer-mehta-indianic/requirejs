@@ -1,6 +1,7 @@
 {
   "name": "quantum-requirejs",
   "version": "2.1.18",
+  "main": "require.js",
   "homepage": "https://github.com/sameer-mehta-indianic/requirejs",
   "authors": [
     "Sameer Mehta <sameer.mehta@indianic.com>"
